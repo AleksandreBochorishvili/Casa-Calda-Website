@@ -22,7 +22,7 @@ a {
 .logo {
   display: flex;
   align-items: center;
-  gap: 10px;
+  gap: 10px;  
 }
 .logo-icon {
   width: 36px;
